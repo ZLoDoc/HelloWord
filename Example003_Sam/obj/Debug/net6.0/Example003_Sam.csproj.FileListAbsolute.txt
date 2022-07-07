@@ -1,0 +1,15 @@
+D:\Examples\Example003_Sam\obj\Debug\net6.0\Example003_Sam.csproj.AssemblyReference.cache
+D:\Examples\Example003_Sam\obj\Debug\net6.0\Example003_Sam.GeneratedMSBuildEditorConfig.editorconfig
+D:\Examples\Example003_Sam\obj\Debug\net6.0\Example003_Sam.AssemblyInfoInputs.cache
+D:\Examples\Example003_Sam\obj\Debug\net6.0\Example003_Sam.AssemblyInfo.cs
+D:\Examples\Example003_Sam\obj\Debug\net6.0\Example003_Sam.csproj.CoreCompileInputs.cache
+D:\Examples\Example003_Sam\bin\Debug\net6.0\Example003_Sam.exe
+D:\Examples\Example003_Sam\bin\Debug\net6.0\Example003_Sam.deps.json
+D:\Examples\Example003_Sam\bin\Debug\net6.0\Example003_Sam.runtimeconfig.json
+D:\Examples\Example003_Sam\bin\Debug\net6.0\Example003_Sam.dll
+D:\Examples\Example003_Sam\bin\Debug\net6.0\Example003_Sam.pdb
+D:\Examples\Example003_Sam\obj\Debug\net6.0\Example003_Sam.dll
+D:\Examples\Example003_Sam\obj\Debug\net6.0\refint\Example003_Sam.dll
+D:\Examples\Example003_Sam\obj\Debug\net6.0\Example003_Sam.pdb
+D:\Examples\Example003_Sam\obj\Debug\net6.0\Example003_Sam.genruntimeconfig.cache
+D:\Examples\Example003_Sam\obj\Debug\net6.0\ref\Example003_Sam.dll
