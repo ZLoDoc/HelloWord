@@ -3,3 +3,13 @@ D:\Examples\Example005 IF Else\obj\Debug\net6.0\Example005 IF Else.GeneratedMSBu
 D:\Examples\Example005 IF Else\obj\Debug\net6.0\Example005 IF Else.AssemblyInfoInputs.cache
 D:\Examples\Example005 IF Else\obj\Debug\net6.0\Example005 IF Else.AssemblyInfo.cs
 D:\Examples\Example005 IF Else\obj\Debug\net6.0\Example005 IF Else.csproj.CoreCompileInputs.cache
+D:\Examples\Example005 IF Else\bin\Debug\net6.0\Example005 IF Else.exe
+D:\Examples\Example005 IF Else\bin\Debug\net6.0\Example005 IF Else.deps.json
+D:\Examples\Example005 IF Else\bin\Debug\net6.0\Example005 IF Else.runtimeconfig.json
+D:\Examples\Example005 IF Else\bin\Debug\net6.0\Example005 IF Else.dll
+D:\Examples\Example005 IF Else\bin\Debug\net6.0\Example005 IF Else.pdb
+D:\Examples\Example005 IF Else\obj\Debug\net6.0\Example005 IF Else.dll
+D:\Examples\Example005 IF Else\obj\Debug\net6.0\refint\Example005 IF Else.dll
+D:\Examples\Example005 IF Else\obj\Debug\net6.0\Example005 IF Else.pdb
+D:\Examples\Example005 IF Else\obj\Debug\net6.0\Example005 IF Else.genruntimeconfig.cache
+D:\Examples\Example005 IF Else\obj\Debug\net6.0\ref\Example005 IF Else.dll
