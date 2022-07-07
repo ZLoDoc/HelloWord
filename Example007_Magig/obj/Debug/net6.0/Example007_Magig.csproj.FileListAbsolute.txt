@@ -1,0 +1,15 @@
+F:\Examples\HelloWord\Example007_Magig\bin\Debug\net6.0\Example007_Magig.exe
+F:\Examples\HelloWord\Example007_Magig\bin\Debug\net6.0\Example007_Magig.deps.json
+F:\Examples\HelloWord\Example007_Magig\bin\Debug\net6.0\Example007_Magig.runtimeconfig.json
+F:\Examples\HelloWord\Example007_Magig\bin\Debug\net6.0\Example007_Magig.dll
+F:\Examples\HelloWord\Example007_Magig\bin\Debug\net6.0\Example007_Magig.pdb
+F:\Examples\HelloWord\Example007_Magig\obj\Debug\net6.0\Example007_Magig.csproj.AssemblyReference.cache
+F:\Examples\HelloWord\Example007_Magig\obj\Debug\net6.0\Example007_Magig.GeneratedMSBuildEditorConfig.editorconfig
+F:\Examples\HelloWord\Example007_Magig\obj\Debug\net6.0\Example007_Magig.AssemblyInfoInputs.cache
+F:\Examples\HelloWord\Example007_Magig\obj\Debug\net6.0\Example007_Magig.AssemblyInfo.cs
+F:\Examples\HelloWord\Example007_Magig\obj\Debug\net6.0\Example007_Magig.csproj.CoreCompileInputs.cache
+F:\Examples\HelloWord\Example007_Magig\obj\Debug\net6.0\Example007_Magig.dll
+F:\Examples\HelloWord\Example007_Magig\obj\Debug\net6.0\refint\Example007_Magig.dll
+F:\Examples\HelloWord\Example007_Magig\obj\Debug\net6.0\Example007_Magig.pdb
+F:\Examples\HelloWord\Example007_Magig\obj\Debug\net6.0\Example007_Magig.genruntimeconfig.cache
+F:\Examples\HelloWord\Example007_Magig\obj\Debug\net6.0\ref\Example007_Magig.dll
