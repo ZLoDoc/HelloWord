@@ -1,2 +1,10 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿int x=0;
+int y=0;
+int [,] snail;
+int nums = 1;
+for (nums==25;nums++)
+{
+
+
+
+}
